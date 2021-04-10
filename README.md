@@ -1,5 +1,5 @@
 # programme_poo
-Programme Procédural à transformer en Version POO
+## Programme Procédural à transformer en Version POO
 
 Les problèmes posés par la version procédurale:
 
