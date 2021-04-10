@@ -1,7 +1,7 @@
 # programme_poo
 ## Programme Procédural à transformer en Version POO
 
-Les problèmes posés par la version procédurale:
+### Les problèmes posés par la version procédurale:
 
  - Comment gérer les étudiants et les enfants?
  - si par erreur le nombre d'éléments dans les 3 listes est différent, que se passe-t-il?
